@@ -1,0 +1,14 @@
+{
+	"dungeon": {
+		"id": 1,
+		"x-dim": 12,
+		"y-dim": 24,
+		"start-x": 1,
+		"start-y": 1,
+		"end-x": 10,
+		"end-y": 22,
+		"bound": 10,
+		"prev": 0,
+		"next": 0
+	}
+}
